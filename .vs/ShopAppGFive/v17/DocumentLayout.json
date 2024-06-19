@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.dal\\daos\\shopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|solutionrelative:shopappgfive.dal\\daos\\shopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.dal\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|solutionrelative:shopappgfive.dal\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.dal\\interfaces\\ishopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|solutionrelative:shopappgfive.dal\\interfaces\\ishopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\views\\shop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\views\\shop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\views\\shop\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\views\\shop\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.dal\\entities\\concretecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|solutionrelative:shopappgfive.dal\\entities\\concretecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.dal\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|solutionrelative:shopappgfive.dal\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\views\\shop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\views\\shop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.dal\\shopappgfive.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0633DCDF-6606-4C11-8761-6942299AF6B0}|ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj|solutionrelative:shopappgfive.dal\\shopappgfive.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|c:\\users\\usuario\\onedrive\\escritorio\\i might need this\\codigo\\c#\\shopappgfive\\shopappgfive.web\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D9F3B50-E384-40F8-8D81-EA04663C25B3}|ShopAppGFive.Web\\ShopAppGFive.Web.csproj|solutionrelative:shopappgfive.web\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopAppGFive.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T20:36:59.435Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ShopAppGFive.Web\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:58:18.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Views\\Shop\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Edit.cshtml",
+              "RelativeToolTip": "ShopAppGFive.Web\\Views\\Shop\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T21:20:24.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Views\\Shop\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Delete.cshtml",
+              "RelativeToolTip": "ShopAppGFive.Web\\Views\\Shop\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T21:29:23.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Program.cs",
+              "RelativeToolTip": "ShopAppGFive.Web\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:37:58.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopDb.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Daos\\ShopDb.cs",
+              "RelativeDocumentMoniker": "ShopAppGFive.DAL\\Daos\\ShopDb.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Daos\\ShopDb.cs",
+              "RelativeToolTip": "ShopAppGFive.DAL\\Daos\\ShopDb.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:47:59.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\appsettings.Development.json",
+              "RelativeToolTip": "ShopAppGFive.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T15:57:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShopDb.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Interfaces\\IShopDb.cs",
+              "RelativeDocumentMoniker": "ShopAppGFive.DAL\\Interfaces\\IShopDb.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Interfaces\\IShopDb.cs",
+              "RelativeToolTip": "ShopAppGFive.DAL\\Interfaces\\IShopDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:49:20.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Views\\Shop\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Create.cshtml",
+              "RelativeToolTip": "ShopAppGFive.Web\\Views\\Shop\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T21:10:22.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Context\\ShopContext.cs",
+              "RelativeDocumentMoniker": "ShopAppGFive.DAL\\Context\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Context\\ShopContext.cs",
+              "RelativeToolTip": "ShopAppGFive.DAL\\Context\\ShopContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAtwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:56:26.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\appsettings.json",
+              "RelativeToolTip": "ShopAppGFive.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T13:01:39.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "ShopAppGFive.DAL\\Entities\\Categories.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Entities\\Categories.cs",
+              "RelativeToolTip": "ShopAppGFive.DAL\\Entities\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:55:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConcreteCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Entities\\ConcreteCategory.cs",
+              "RelativeDocumentMoniker": "ShopAppGFive.DAL\\Entities\\ConcreteCategory.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\Entities\\ConcreteCategory.cs",
+              "RelativeToolTip": "ShopAppGFive.DAL\\Entities\\ConcreteCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:34:20.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "ShopAppGFive.Web\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T21:01:26.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopAppGFive.Web\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.Web\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ShopAppGFive.Web\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T19:07:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopAppGFive.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj",
+              "RelativeDocumentMoniker": "ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\ShopAppGFive\\ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj",
+              "RelativeToolTip": "ShopAppGFive.DAL\\ShopAppGFive.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T22:07:41.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
